@@ -1,0 +1,5 @@
+.DS_STORE
+node_modules
+.node_history
+npm-debug.log
+credentials*.json
